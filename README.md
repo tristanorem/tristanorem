@@ -1,9 +1,10 @@
 ## Hi, I'm Elena, my pleasure 😺!! 
 
 - 👋 Hi, I’m @tristanorem
-- 👀 I’m interested in fron-end
-- 🌱 student full stack developer back-end and front-end
+- 👀 I’m interested in front-end
+- 🌱 student full stack developer, back-end and front-end
 - 📫 How to reach me acevedoelena.23@gmail.com
+- 🖥️ e-commer web pages are  my strong skill
 
 <div>
   <a href="https://github.com/tristanorem">
