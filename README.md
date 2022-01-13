@@ -30,4 +30,4 @@
    <a href="https://www.facebook.com/mariaelena.acevedo.98/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   </div>      
   
-  ![Snake animation](https://github.com/tristanorem/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/tristanorem/tristanorem/blob/output/github-contribution-grid-snake.svg)
