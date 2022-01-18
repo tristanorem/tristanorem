@@ -6,7 +6,7 @@
 - 📫 How to reach me acevedoelena.23@gmail.com
 - 🖥️ e-commer web pages are  my strong skill
   
-  <div align="center">
+  <div align="space-between">
   <a href="https://github.com/tristanorem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tristanorem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tristanorem&layout=compact&langs_count=7&theme=dracula"/>
